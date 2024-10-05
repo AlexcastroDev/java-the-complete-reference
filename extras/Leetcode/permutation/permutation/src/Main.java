@@ -17,7 +17,7 @@ public class Main {
         }
 
 
-        return false;
+        return matches(s1Count, s2Count);
     }
 
     private static boolean matches(int[] s1Count, int[] s2Count) {
