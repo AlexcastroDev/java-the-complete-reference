@@ -11,5 +11,5 @@ moving smaller subtrees down and larger subtrees up, resulting in improved perfo
 
 ## Context
 
-This will help to understand [BBST](../BBST/readme.md)
+This will help to understand [BBST](../BBS/BBST/readme.md)
 
